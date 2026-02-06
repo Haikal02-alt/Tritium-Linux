@@ -27,6 +27,6 @@
 -Then sudo cp /usr/share/pixmaps/tritium-logo-text.png /usr/share/pixmaps/archlinux-logo-text.svg
 -Then sudo cp /usr/share/pixmaps/tritium-logo-text.png /usr/share/pixmaps/archlinux-logo-text-dark.svg
 -Then sudo nano /etc/os-release Then Change LOGO=archlinux-logo to LOGO=/usr/share/pixmaps/tritium-logo.png
--Open Konsole Then Notifications then System Notifications Then Play login and logout sound by click Play a sound
+-Open Konsole Then Notifications then System Notifications Then Play login and logout sound by click Play a sound Then Click apply
 
 Have Fun And Start Using This OS
