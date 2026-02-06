@@ -1,0 +1,32 @@
+1 Download Arch Linux Iso Here https://archlinux.org/download/
+2 Flash The USB Stick
+3 On Archiso Run archinstall
+4 If You Are On archinstall
+-For Disk Configuration ext4
+-For Bootloader Limine
+-For Kernels linux-lts
+-For linux-zen (designed to make a desktop PC feel faster and more responsive)
+-Set Hostname
+-Set Username And Password
+-Set Root Password
+-Profile Type Desktop Desktop Environment KDE Plasma
+-Network Configuration Network Manager
+5 After You Install It
+-Enter Konsole
+-sudo nano /etc/os-release
+-Change NAME="Arch Linux" To NAME="Tritium Linux"
+-Change PRETTY_NAME="Arch Linux" To PRETTY_NAME="Tritium Linux"
+-Change ID=arch To ID=tritium
+-Change HOME_URL"https://archlinux.org/" To HOME_URL="https://github.com/Haikal02-alt/Tritium-Linux"
+-Install Firefox sudo pacman -S firefox
+-Go To https://github.com/Haikal02-alt/Tritium-Linux Then Follow The tritium-logo.png and tritium-logo-text.png Then Save 2 Photos On Readme To Downloads
+-Then sudo mv /home/yourname/Downloads/tritium-logo.png /usr/share/pixmaps
+-Then sudo mv /home/yourname/Downloads/tritium-logo-text.png /usr/share/pixmaps
+-Then sudo cp /usr/share/pixmaps/tritium-logo.png /usr/share/pixmaps/archlinux-logo.png
+-Then sudo cp /usr/share/pixmaps/tritium-logo.png /usr/share/pixmaps/archlinux-logo.svg
+-Then sudo cp /usr/share/pixmaps/tritium-logo-text.png /usr/share/pixmaps/archlinux-logo-text.svg
+-Then sudo cp /usr/share/pixmaps/tritium-logo-text.png /usr/share/pixmaps/archlinux-logo-text-dark.svg
+-Then sudo nano /etc/os-release Then Change LOGO=archlinux-logo to LOGO=/usr/share/pixmaps/tritium-logo.png
+-Open Konsole Then Notifications then System Notifications Then Play login and logout sound by click Play a sound
+
+Have Fun And Start Using This OS
