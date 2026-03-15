@@ -11,6 +11,8 @@
 -Set Root Password
 -Profile Type Desktop Desktop Environment KDE Plasma
 -Network Configuration Network Manager
+-Applications Bluetooth:enabled Audio:pipewire Print service: Enabled Power management: power-profiles-daemon
+-Set Timezone 
 5 After You Install It
 -Enter Konsole
 -sudo nano /etc/os-release
