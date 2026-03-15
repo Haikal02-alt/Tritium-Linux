@@ -30,5 +30,6 @@
 -Open Konsole Then Notifications then System Notifications Then Play login and logout sound by click Play a sound Then Click apply
 -Click Configure Application Launcher
 -Then Change Icon Default KDE To tritium-logo Then Click Apply Then Click OK
+-Run sudo update-initramfs -u
 
 Have Fun And Start Using This OS
