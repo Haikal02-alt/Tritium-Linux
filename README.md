@@ -4,7 +4,7 @@
 
 What Is Tritium Linux
 Tritium Linux Is A Renamed Of Trilium Linux Due To Conflict Of Trilium Or Trillium
-Tritium Linux Is A Arch Based Distro Which Is Lightweight
+Tritium Linux Is A Arch Based Distro Which Is Lightweight And This Distro Uses Limine Bootloader
 Tritium Doesnt Need Iso You Just Start iso of Arch Linux
 Tritium Is A Linux For Human Beings Distro
 
