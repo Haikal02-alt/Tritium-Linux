@@ -14,3 +14,5 @@ Name It To tritium-logo.png on this logo
 
 Name It To tritium-logo-text.png on this logo
 <img width="1009" height="261" alt="Screenshot From 2026-02-05 21-53-12" src="https://github.com/user-attachments/assets/12a38013-a286-404e-bd32-9c62cfc93741" />
+
+(TRITIUM LINUX IS NOW DISCONTINUED ON WEDNESDAY MARCH 18 2026 BECAUSE STARTING TRIAXIS 2026.3.18 TRIAXIS SWITCHED BASE FROM UBUNTU LTS TO ARCH LINUX)
