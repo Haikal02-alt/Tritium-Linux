@@ -3,6 +3,7 @@
 # Tritium-Linux
 
 (TRITIUM LINUX IS NOW DISCONTINUED ON WEDNESDAY MARCH 18 2026 BECAUSE STARTING TRIAXIS 2026.3.18 TRIAXIS SWITCHED BASE FROM UBUNTU LTS TO ARCH LINUX)
+
 What Is Tritium Linux
 Tritium Linux Is A Renamed Of Trilium Linux Due To Conflict Of Trilium Or Trillium
 Tritium Linux Is A Arch Based Distro Which Is Lightweight And This Distro Uses Limine Bootloader
